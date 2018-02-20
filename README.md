@@ -1,5 +1,5 @@
 # cholesky-decomposition
-Simple octave program to compute the Cholesky factor of an n-by-n symmetric, positive-definite.
+Simple octave program to compute the Cholesky factor of an n-by-n symmetric, positive-definite matrix.
 
 ## Usage
 Obtain the n-by-n symmetric, positive-definite matrix that you want to compute the Cholesky factor of.
